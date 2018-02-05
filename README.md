@@ -1,3 +1,4 @@
 # PythonWorkshops
-Supporting files and video tutorials for introductory python workshop  
+Supporting files for introductory python workshop  
+Tutorial series: https://www.youtube.com/watch?v=Kb__LGu-6JA&list=PLyShmbsew6NLolKELQxE-R2ekPCWO-XhS&index=1  
 Created by Bowen Xu, organized by DubsTech@uw.edu
